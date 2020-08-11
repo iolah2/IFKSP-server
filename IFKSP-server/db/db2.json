@@ -1,0 +1,95 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "name": "Big Tom",
+      "email": "bigtom@gmail.com",
+      "etc.": "Big"
+    },
+    {
+      "id": 2,
+      "name": "Little Jimmy",
+      "email": "littlejimmy@gmail.com",
+      "etc.": "Little"
+    },
+    {
+      "id": 3,
+      "name": "Mid John",
+      "email": "midjohn@gmail.com",
+      "etc.": "Middle"
+    },
+    {
+      "id": 4,
+      "name": "Jani Mani",
+      "email": "janimani@gmail.com",
+      "etc.": "Rich"
+    },
+    {
+      "id": 5,
+      "name": "Scorpions",
+      "email": "scorpions@gmail.com",
+      "etc.": "Music"
+    },
+    {
+      "id": 6,
+      "name": "Akos Ujvari",
+      "email": "akos.ujvari@gmail.com",
+      "etc.": "User"
+    },
+    {
+      "id": 7,
+      "name": "Modern Talking",
+      "email": "moderntalking@gmail.com",
+      "etc.": "Music"
+    },
+    {
+      "id": 8,
+      "name": "Rhoda Scott",
+      "email": "rodascott@gmail.com",
+      "etc.": "Music"
+    },
+    {
+      "id": 10,
+      "name": "Subi Dubi",
+      "email": "subidubi@gmail.com",
+      "etc.": "Duuuuuuuu!"
+    },
+    {
+      "id": 11,
+      "name": "Winnetou",
+      "email": "winnetou@gmail.com",
+      "etc.": "Indian"
+    },
+    {
+      "id": 13,
+      "name": "Police",
+      "email": "police@gmail.com",
+      "etc.": "Policeman"
+    },
+    {
+      "id": 14,
+      "name": "Max",
+      "email": "max@gmail.com",
+      "etc.": "Maximum"
+    },
+    {
+      "id": 15,
+      "name": "Kájli Minók",
+      "email": "kajliminok@gmail.com",
+      "etc.": "Music"
+    },
+    {
+      "id": 16,
+      "name": "Magnum",
+      "email": "magnum@gmail.com",
+      "etc.": "Revolver"
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "userId": 1
+    }
+  ]
+}

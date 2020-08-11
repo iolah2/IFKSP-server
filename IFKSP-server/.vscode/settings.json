@@ -1,0 +1,7 @@
+{
+    "liveServer.settings.ignoreFiles":[
+        "node_modules/**",
+        "db/**"
+    ],
+    "liveServer.settings.port": 5501
+}
